@@ -73,3 +73,8 @@ Here are some helpful React tutorial videos to follow along with this guide:
 * [50+ HOURS REACT.JS 19 MONSTER CLASS](https://www.youtube.com/watch?v=M9O5AjEFzKw&utm_source=chatgpt.com)
 
 ---
+### Useful Links
+
+Here are some helpful links
+
+- 10 JavaScript Concepts You MUST Master Before Learning React [https://app.daily.dev/posts/10-javascript-concepts-you-must-master-before-learning-react-ecrz7hnau]
