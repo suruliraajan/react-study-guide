@@ -82,3 +82,4 @@ Here are some helpful links
 - A Beginner’s Guide to React Architecture and Features [https://codecoffeee.hashnode.dev/a-beginners-guide-to-react-architecture-and-features]
 - How to Fix Memory Leaks in React Applications [https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/]
 - Hands on React [https://handsonreact.com/]
+- Build and Deploy a Realtime Chat App with React, Node.js, Socket.io [https://www.youtube.com/watch?v=bR4b_Io8shE]
