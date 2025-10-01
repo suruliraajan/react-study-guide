@@ -83,3 +83,4 @@ Here are some helpful links
 - How to Fix Memory Leaks in React Applications [https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/]
 - Hands on React [https://handsonreact.com/]
 - Build and Deploy a Realtime Chat App with React, Node.js, Socket.io [https://www.youtube.com/watch?v=bR4b_Io8shE]
+- React Router [https://blog.logrocket.com/react-router-v7-modes/]
