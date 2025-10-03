@@ -84,3 +84,4 @@ Here are some helpful links
 - Hands on React [https://handsonreact.com/]
 - Build and Deploy a Realtime Chat App with React, Node.js, Socket.io [https://www.youtube.com/watch?v=bR4b_Io8shE]
 - React Router [https://blog.logrocket.com/react-router-v7-modes/]
+- React form hooks in Astro [https://www.youtube.com/watch?v=-0pbaYcQJ-0]
