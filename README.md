@@ -82,7 +82,7 @@ Here are some helpful links
 - A Beginner’s Guide to React Architecture and Features [https://codecoffeee.hashnode.dev/a-beginners-guide-to-react-architecture-and-features]
 - How to Fix Memory Leaks in React Applications [https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/]
 - Hands on React [https://handsonreact.com/]
-- Build and Deploy a Realtime Chat App with React, Node.js, Socket.io [https://www.youtube.com/watch?v=bR4b_Io8shE]
+- Build and Deploy a Realtime Chat App with React, Node.js, Socket.io. [https://www.youtube.com/watch?v=bR4b_Io8shE]
 - React Router [https://blog.logrocket.com/react-router-v7-modes/]
 - React form hooks in Astro [https://www.youtube.com/watch?v=-0pbaYcQJ-0]
 - React Simplified - Mastering Import, Export & JSX [https://codecoffeee.hashnode.dev/react-simplified-mastering-import-export-and-jsx-without-confusion]
