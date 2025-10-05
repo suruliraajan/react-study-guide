@@ -77,6 +77,7 @@ Here are some helpful React tutorial videos to follow along with this guide:
 
 Here are some helpful links
 
+- Roadmap for the React Developer [https://roadmap.sh/react?ref=dailydev]
 - 10 JavaScript Concepts You MUST Master Before Learning React [https://app.daily.dev/posts/10-javascript-concepts-you-must-master-before-learning-react-ecrz7hnau]
 - Hidden React Architecture Patterns That Senior Developers Actually Use [https://javascript.plainenglish.io/hidden-react-architecture-patterns-that-senior-developers-actually-use-f145fe680510]
 - A Beginner’s Guide to React Architecture and Features [https://codecoffeee.hashnode.dev/a-beginners-guide-to-react-architecture-and-features]
