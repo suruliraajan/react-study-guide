@@ -87,3 +87,4 @@ Here are some helpful links
 - React Router [https://blog.logrocket.com/react-router-v7-modes/]
 - React form hooks in Astro [https://www.youtube.com/watch?v=-0pbaYcQJ-0]
 - React Simplified - Mastering Import, Export & JSX [https://codecoffeee.hashnode.dev/react-simplified-mastering-import-export-and-jsx-without-confusion]
+- Top Libraries and Tools for Modern React Frontend Development [https://www.telerik.com/blogs/top-libraries-tools-modern-react-frontend-development]
