@@ -88,3 +88,4 @@ Here are some helpful links
 - React form hooks in Astro [https://www.youtube.com/watch?v=-0pbaYcQJ-0]
 - React Simplified - Mastering Import, Export & JSX [https://codecoffeee.hashnode.dev/react-simplified-mastering-import-export-and-jsx-without-confusion]
 - Top Libraries and Tools for Modern React Frontend Development [https://www.telerik.com/blogs/top-libraries-tools-modern-react-frontend-development]
+- Boost Your React Development with the Syncfusion AI Coding Assistant [https://www.syncfusion.com/blogs/post/syncfusion-ai-coding-assistant-react]
