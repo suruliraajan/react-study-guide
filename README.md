@@ -89,3 +89,4 @@ Here are some helpful links
 - React Simplified - Mastering Import, Export & JSX [https://codecoffeee.hashnode.dev/react-simplified-mastering-import-export-and-jsx-without-confusion]
 - Top Libraries and Tools for Modern React Frontend Development [https://www.telerik.com/blogs/top-libraries-tools-modern-react-frontend-development]
 - Boost Your React Development with the Syncfusion AI Coding Assistant [https://www.syncfusion.com/blogs/post/syncfusion-ai-coding-assistant-react]
+- Working with the KendoReact Popup Component [https://www.telerik.com/blogs/working-kendoreact-popup-component]
