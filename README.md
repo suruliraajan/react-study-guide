@@ -91,3 +91,4 @@ Here are some helpful links
 - Boost Your React Development with the Syncfusion AI Coding Assistant [https://www.syncfusion.com/blogs/post/syncfusion-ai-coding-assistant-react]
 - Working with the KendoReact Popup Component [https://www.telerik.com/blogs/working-kendoreact-popup-component]
 - react-mui-sidebar Package [https://www.freecodecamp.org/news/how-to-use-react-mui-sidebar-to-build-responsive-customizable-sidebars/]
+- Hooks vs Signals [https://blog.logrocket.com/signals-vs-hooks-reactivity-models/]
