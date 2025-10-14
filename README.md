@@ -92,3 +92,4 @@ Here are some helpful links
 - Working with the KendoReact Popup Component [https://www.telerik.com/blogs/working-kendoreact-popup-component]
 - react-mui-sidebar Package [https://www.freecodecamp.org/news/how-to-use-react-mui-sidebar-to-build-responsive-customizable-sidebars/]
 - Hooks vs Signals [https://blog.logrocket.com/signals-vs-hooks-reactivity-models/]
+- Full Stack Movie Streaming App with Go, React, MongoDB, OpenAI [https://www.freecodecamp.org/news/build-a-full-stack-movie-streaming-app-with-go-react-mongodb-openai/]
