@@ -93,3 +93,4 @@ Here are some helpful links
 - react-mui-sidebar Package [https://www.freecodecamp.org/news/how-to-use-react-mui-sidebar-to-build-responsive-customizable-sidebars/]
 - Hooks vs Signals [https://blog.logrocket.com/signals-vs-hooks-reactivity-models/]
 - Full Stack Movie Streaming App with Go, React, MongoDB, OpenAI [https://www.freecodecamp.org/news/build-a-full-stack-movie-streaming-app-with-go-react-mongodb-openai/]
+- Compound Components Pattern in React [https://www.freecodecamp.org/news/compound-components-pattern-in-react/]
