@@ -96,3 +96,4 @@ Here are some helpful links
 - Compound Components Pattern in React [https://www.freecodecamp.org/news/compound-components-pattern-in-react/]
 - React Basics [https://www.telerik.com/blogs/react-basics-getting-started-react-visual-studio-code]
 - Non-Blocking in React & React Native [https://app.daily.dev/posts/non-blocking-in-react-react-native-u9d4qa97r]
+- React vs. Backbone in 2025 [https://backbonenotbad.hyperclay.com/]
