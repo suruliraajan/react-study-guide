@@ -98,3 +98,4 @@ Here are some helpful links
 - Non-Blocking in React & React Native [https://app.daily.dev/posts/non-blocking-in-react-react-native-u9d4qa97r]
 - React vs. Backbone in 2025 [https://backbonenotbad.hyperclay.com/]
 - Creating a React + Next.js (App Router) Project with Docker for Dev & Production [https://www.youtube.com/watch?v=3ZYjRvtK1Hs]
+- React Server Components [https://www.youtube.com/watch?v=C84YEp-8-hI]
