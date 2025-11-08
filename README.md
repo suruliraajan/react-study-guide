@@ -99,3 +99,4 @@ Here are some helpful links
 - React vs. Backbone in 2025 [https://backbonenotbad.hyperclay.com/]
 - Creating a React + Next.js (App Router) Project with Docker for Dev & Production [https://www.youtube.com/watch?v=3ZYjRvtK1Hs]
 - React Server Components [https://www.youtube.com/watch?v=C84YEp-8-hI]
+- Next.js, React Router, TanStack: When To Use Each [https://thenewstack.io/next-js-react-router-tanstack-when-to-use-each/]
