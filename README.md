@@ -101,3 +101,4 @@ Here are some helpful links
 - React Server Components [https://www.youtube.com/watch?v=C84YEp-8-hI]
 - Next.js, React Router, TanStack: When To Use Each [https://thenewstack.io/next-js-react-router-tanstack-when-to-use-each/]
 - How to Embed a DOCX Editor in a Web Page Using React [https://www.syncfusion.com/blogs/post/embed-docx-editor-in-web-page]
+- React vs ReactDOM: What’s the Difference? [https://dev.to/imsushant12/react-vs-reactdom-whats-the-difference-a-deep-dive-into-how-they-actually-work-together-1gg0]
