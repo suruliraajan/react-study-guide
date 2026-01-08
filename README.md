@@ -105,3 +105,4 @@ Here are some helpful links
 - React and Next.js learning through AI [https://techhub.iodigital.com/articles/chatgpt-as-my-coding-mentor]
 - React State Management: From Flux Redux Redux Toolkit [https://dev.to/imsushant12/the-journey-of-react-state-management-from-flux-redux-redux-toolkit-3mjc]
 - React Hooks and the Rules of Hooks [https://dev.to/usama_dev/react-hooks-and-the-rules-of-hooks-the-understanding-that-finally-clicked-for-me-hm4]
+- AI Agents in the Browser: What Frontend Engineers Should Actually Prepare For [https://www.iocombats.com/blogs/ai-agents-in-browser-frontend-engineering-preparation]
