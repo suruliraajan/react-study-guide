@@ -107,3 +107,4 @@ Here are some helpful links
 - React Hooks and the Rules of Hooks [https://dev.to/usama_dev/react-hooks-and-the-rules-of-hooks-the-understanding-that-finally-clicked-for-me-hm4]
 - AI Agents in the Browser: What Frontend Engineers Should Actually Prepare For [https://www.iocombats.com/blogs/ai-agents-in-browser-frontend-engineering-preparation]
 - React.js Lazy Loading explained here. [https://app.daily.dev/posts/react-js-lazy-loading-explained-pwqlqmovm]
+- React-admin V4: Switching Form Library [https://marmelab.com/blog/2022/04/12/react-admin-v4-new-form-framework.html]
