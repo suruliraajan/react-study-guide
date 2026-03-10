@@ -108,3 +108,4 @@ Here are some helpful links
 - AI Agents in the Browser: What Frontend Engineers Should Actually Prepare For [https://www.iocombats.com/blogs/ai-agents-in-browser-frontend-engineering-preparation]
 - React.js Lazy Loading explained here. [https://app.daily.dev/posts/react-js-lazy-loading-explained-pwqlqmovm]
 - React-admin V4: Switching Form Library [https://marmelab.com/blog/2022/04/12/react-admin-v4-new-form-framework.html]
+- Zustand vs useState – How to Manage State in React Apps [https://www.freecodecamp.org/news/zustand-vs-usestate-how-to-manage-state-in-react/]
