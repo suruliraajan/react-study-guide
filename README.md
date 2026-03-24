@@ -110,3 +110,4 @@ Here are some helpful links
 - React-admin V4: Switching Form Library [https://marmelab.com/blog/2022/04/12/react-admin-v4-new-form-framework.html]
 - Zustand vs useState – How to Manage State in React Apps [https://www.freecodecamp.org/news/zustand-vs-usestate-how-to-manage-state-in-react/]
 - Higher Order Components React Design Pattern [https://www.youtube.com/watch?v=gAhICs1e8eM]
+- Learning React First Is Actually a Mistake [https://app.daily.dev/posts/learning-react-first-is-actually-a-mistake-vrkbbiocc]
